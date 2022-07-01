@@ -8,16 +8,6 @@ Here we have a set of instructions and guidelines to reduce misunderstandings an
 
 We hope this guide makes the contribution process clear and answers any questions you may have.
 
-### Language
-
-Please, while contributing or interacting in any way in this project, refrain from using any language other than **English**.
-
-#### For native English speakers
-
-Try to use simple words and sentences. Don't make fun of non-native English speakers if you find something wrong about the way they express themselves.
-
-Try to encourage newcomers to express their opinions, and make them comfortable enough to do so.
-
 ### Code of Conduct
 
 We expect that project participants to adhere to our Code of Conduct. You can check the [full text](CODE_OF_CONDUCT.md) so that you may understand the kind of conduct we are expecting and what actions will and will not be tolerated. By participating in this project you agree to abide by its terms.
