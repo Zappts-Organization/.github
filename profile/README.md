@@ -1,5 +1,3 @@
-<h1>Zappts</h1>
-
 ![Zappts](http://i.imgur.com/M1J5zoP.png)
 
 <p>Aceleramos a transformação digital
